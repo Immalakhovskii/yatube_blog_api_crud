@@ -4,7 +4,7 @@ from rest_framework.authtoken import views
 
 from .views import GroupViewSet, PostViewSet, CommentViewSet
 
-app_name = "api"
+app_name = 'api'
 
 router_v1 = DefaultRouter()
 router_v1.register(r'groups', GroupViewSet)
