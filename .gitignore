@@ -150,3 +150,5 @@ static/
 yatube_api/posts/static/
 media/
 
+# Файл с запросами REST_client
+REST_client_requests.http
