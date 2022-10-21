@@ -1,4 +1,4 @@
-# api_yatube #
+# Yatube API CRUD #
 *This project is a partial Django REST Framework implementation of a blogging platform Yatube made with Django which can be seen here: https://github.com/Immalakhovskii/yatube_blog_final*
 ****
 ### Description ###
